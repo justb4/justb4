@@ -7,7 +7,7 @@
 
 [![stats](https://github-readme-stats.vercel.app/api?username=justb4&theme=vue&show_icons=true&hide_border=true)](https://github.com/justb4)
 <!-- https://github.com/anuraghazra/github-readme-stats/tree/master/themes -->
-### 💬 __"It's not what you achieve, it's what you overcome. That's what defines your career" Carlton Fisk__
+<!-- ### 💬 __"It's not what you achieve, it's what you overcome. That's what defines your career" Carlton Fisk__ -->
 <!--
 **justb4/justb4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

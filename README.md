@@ -3,7 +3,7 @@
 [![Personal Site](https://img.shields.io/badge/Personal%20Site-grey?logo=github&style=flat-square&link=https://justobjects.nl)](https://justobjects.nl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&link=https://www.linkedin.com/in/justb4)](https://www.linkedin.com/in/justb4)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?logo=twitter&logoColor=white&style=flat-square&link=https://twitter.com/justb4)](https://twitter.com/justb4)
-<span class="badge-patreon"><a href="https://patreon.com/justb4" title="Donate for my Open Source works using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+[![Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg?logo=patreon&style=flat-square&link=https://patreon.com/justb4)](https://patreon.com/justb4)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjustb4&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=true)](https://github.com/justb4)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=justb4&theme=vue&show_icons=true&hide_border=true)](https://github.com/justb4)
